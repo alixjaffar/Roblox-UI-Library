@@ -64,7 +64,7 @@ Window:AddColor({text = "Color", flag = "color", color = {1, 0.2, 0.2}, callback
 ```
 
  
-# How to initialize the library, so everything will gt created
+# How to initialize the library, so everything will get created
 ```
 Library:Init()
  

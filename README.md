@@ -11,7 +11,7 @@ local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/alixj
  
 # how to make a window
 ```
-local Window = Library:CreateWindow"Window"
+local Window = Library:CeateWindow"Window"
 ```
 
  

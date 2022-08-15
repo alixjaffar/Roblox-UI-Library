@@ -11,7 +11,7 @@ local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/alixj
  
 # how to make a window
 ```
-local Window = Library:CeateWindow"Window"
+local Window = Library:CreateWindow"Window"
 ```
 
  
@@ -64,7 +64,7 @@ Window:AddColor({text = "Color", flag = "color", color = {1, 0.2, 0.2}, callback
 ```
 
  
-# How to initialize the library, so everything will get created
+# How to initialize the library, so everything will gt created
 ```
 Library:Init()
  

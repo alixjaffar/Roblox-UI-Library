@@ -9,7 +9,7 @@ local inputService = game:GetService"UserInputService"
 --Locals
 local dragging, dragInput, dragStart, startPos, dragObject
 
-local blacklistedKeys = { --add or remove keys if you find the need to
+local blacklistedKeys = { 
 	Enum.KeyCode.Unknown,Enum.KeyCode.W,Enum.KeyCode.A,Enum.KeyCode.S,Enum.KeyCode.D,Enum.KeyCode.Slash,Enum.KeyCode.Tab,Enum.KeyCode.Backspace,Enum.KeyCode.Escape
 }
 local whitelistedMouseinputs = { --add or remove mouse inputs if you find the need to
